@@ -6,9 +6,9 @@
 
 <p>• 📱🖌 Filter's Creator: </p>
 
-<p> • 🔭 I’m currently working on: System design IT-Manager 
+<p> • 🔭 I’m currently working on: System design IT-Manager </p>
      <br>
-     - Link project:  🛠 </p>
+<p>       Link project:  🛠 </p>
      
      
 
