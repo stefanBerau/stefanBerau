@@ -1,8 +1,12 @@
 ### Hi there 👋 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=carmineh&count_private=true&count_private=true&show_icons=true" alt="Personal Stats">
-<br>
-<p><b>• 💻 Computer science student at:</b><a href="https://www.unisa.it">UNISA</a> 🎓 </p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=stefanBerau&count_private=true&count_private=true&show_icons=true" alt="Personal Stats">
 
+<p><b>• 💻 Computer science student:</b><a href="https://www.unisa.it">UNISA</a> 🎓 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p><b>• 📱🖌 Filter's Creator:</b>  <a href="https://www.instagram.com/_manny_biddy_creators_/">@_manny_biddy_creators_</a> </p>
 
 <p><b> • 🔭 I’m currently working on:</b> System design IT-Manager </p>
