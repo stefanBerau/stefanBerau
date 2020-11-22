@@ -8,7 +8,7 @@
 
 <p> • 🔭 I’m currently working on: System design IT-Manager </p>
 <pre>
-<p>       Link project:  🛠 </p>
+          Link project: 
 </pre>
      
      
