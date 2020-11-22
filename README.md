@@ -13,8 +13,8 @@
 
 <p><b> • 👷🏻‍♂️ My Work</b> </p>
 <ul>
-<li><a href="https://github.com/stefanBerau/MyCARe">MyCARe</a>(Web Site)</li>
-<li><a href="https://github.com/Carmineh/IT-Manager">IT-Manager</a>(Web Site)</li>
+<li><a href="https://github.com/stefanBerau/MyCARe">MyCARe</a> (Web Site)</li>
+<li><a href="https://github.com/Carmineh/IT-Manager">IT-Manager</a> (Web Site)</li>
 <li>... Coming Soon! ...</li>
 </ul>
 
