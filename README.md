@@ -1,15 +1,22 @@
 ### Hi there 👋 
 <br>
-<p> • 💻 Computer science student at: <a href="https://www.unisa.it">UNISA</a> 🎓 </p>
+<p><b>• 💻 Computer science student at:</b><a href="https://www.unisa.it">UNISA</a> 🎓 </p>
 
-<p>• 📱🖌 Filter's Creator:  <a href="https://www.instagram.com/_manny_biddy_creators_/">@_manny_biddy_creators_</a> </p>
+<p><b>• 📱🖌 Filter's Creator:</b>  <a href="https://www.instagram.com/_manny_biddy_creators_/">@_manny_biddy_creators_</a> </p>
 
-<p> • 🔭 I’m currently working on: System design IT-Manager </p>
+<p><b> • 🔭 I’m currently working on:</b> System design IT-Manager </p>
 
+<p><b> • 👷🏻‍♂️ My Work</b> </p>
+<ul>
+<li>MyCARe (Web Site)</li>
+<li>IT-Manager (Web Site) </li>
+<li>... Coming Soon! ...</li>
+</ul>
 
-<p> • 💬 Ask me about: </p>
-
-<p> • 📫 How to reach me: </p>
-
-
-
+<p><b> • 📫 How to reach me</b> </p>
+<ul>
+<li>Email: <a href="mailto:stefanobiddau99@gmail.com">stefanobiddau99@gmail.com</a></li>
+<li>Institutional Email:<a href="mailto:S.BIDDAU@STUDENTI.UNISA.IT	">S.BIDDAU@STUDENTI.UNISA.IT	</a>  </li>
+<li>Email (only for filters):<a href="mailto:calabau99@gmail.com">calabau99@gmail.com</a> </li>
+<li>Instagram: <a href="https://www.instagram.com/stefano_bid/">@stefano_bid</a></li>
+</ul>
