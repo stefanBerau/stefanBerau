@@ -1,4 +1,4 @@
-<h3> Hi there  <h3>
+<h3> Hi there 👋 <h3>
 
 
 
@@ -7,6 +7,7 @@
 <p>📱🖌 Filter's Creator: </p>
 
 <p> 🔭 I’m currently working on: System design IT-Manager 
+     <br>
      - Link project: 🛠 </p>
      
      
