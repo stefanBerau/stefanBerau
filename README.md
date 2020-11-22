@@ -1,20 +1,20 @@
 <h3> Hi there 👋 <h3>
 
 
-<p>
-- 💻 Computer science student at: Uiversità degli studi di Salerno 🎓
 
-- 📱🖌 Filter's Creator: 
+<p> 💻 <b>Computer science student at:</b> Uiversità degli studi di Salerno 🎓 </p>
 
-- 🔭 I’m currently working on: System design IT-Manager 
-     - Link project: 🛠 
+<p>📱🖌 Filter's Creator: </p>
+
+<p> 🔭 I’m currently working on: System design IT-Manager 
+     - Link project: 🛠 </p>
      
      
 
 
-- 💬 Ask me about: 
+<p> - 💬 Ask me about: </p>
 
-- 📫 How to reach me: 
-</p>
+<p> - 📫 How to reach me: </p>
+
 
 
