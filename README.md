@@ -1,6 +1,6 @@
-<h3> Hi there 👋 <h3>
-
-
+### Hi there 👋 
+<br>
+<br>
 
 <p> • 💻 Computer science student at: Uiversità degli studi di Salerno 🎓 </p>
 
