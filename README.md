@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <br>
-<p> • 💻 Computer science student at: <a src="https://www.unisa.it">UNISA</a> 🎓 </p>
+<p> • 💻 Computer science student at: <a href="https://www.unisa.it">UNISA</a> 🎓 </p>
 
 <p>• 📱🖌 Filter's Creator: </p>
 
