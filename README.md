@@ -1,7 +1,7 @@
-### Hi there 👋 
+<h3> Hi there 👋 <h3>
 
 
-
+<p>
 - 💻 Computer science student at: Uiversità degli studi di Salerno 🎓
 
 - 📱🖌 Filter's Creator: 
@@ -15,6 +15,6 @@
 - 💬 Ask me about: 
 
 - 📫 How to reach me: 
-
+</p>
 
 
