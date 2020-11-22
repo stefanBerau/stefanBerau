@@ -7,12 +7,6 @@
 <p>• 📱🖌 Filter's Creator: </p>
 
 <p> • 🔭 I’m currently working on: System design IT-Manager </p>
-<pre>
-          Link project: 
-</pre>
-     
-     
-
 
 <p> • 💬 Ask me about: </p>
 
