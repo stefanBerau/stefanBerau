@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there I'm Berau👋 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=stefanBerau&count_private=true&count_private=true&show_icons=true" alt="Personal Stats">
 <br>
 <br>
@@ -13,8 +13,8 @@
 
 <p><b> • 👷🏻‍♂️ My Work</b> </p>
 <ul>
-<li>MyCARe (Web Site)</li>
-<li>IT-Manager (Web Site) </li>
+<li><a href="https://github.com/stefanBerau/MyCARe">MyCARe</a>(Web Site)</li>
+<li><a href="https://github.com/Carmineh/IT-Manager">IT-Manager</a>(Web Site)</li>
 <li>... Coming Soon! ...</li>
 </ul>
 
