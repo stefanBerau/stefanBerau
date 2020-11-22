@@ -1,4 +1,5 @@
 ### Hi there 👋 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=carmineh&count_private=true&count_private=true&show_icons=true" alt="Personal Stats">
 <br>
 <p><b>• 💻 Computer science student at:</b><a href="https://www.unisa.it">UNISA</a> 🎓 </p>
 
